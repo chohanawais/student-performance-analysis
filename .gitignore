@@ -1,0 +1,18 @@
+# python cache files
+__pycache__/
+*.pyc
+
+# Virtual enviroments
+venv/
+.venv/
+
+# Secrets and enviroment files
+.env
+
+# Local database 
+students.db
+student.db
+
+# Generated graph
+student_marks.png
+performance_graph.png
